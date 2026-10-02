@@ -1,3 +1,3 @@
 # Hello, world!
 
-I studi Netology
+I studi Netology 02.10.2026
