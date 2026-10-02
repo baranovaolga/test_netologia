@@ -1,5 +1,9 @@
-# Hello, world!
+# Input data
 
-I studi Netology 02.10.2026
+Description of the NeuroStartUp project:
 
-Delete
+NeuroStartUp is a dynamically developing startup specializing in search using the latest artificial intelligence technologies. Our advantages:
+
+High search accuracy
+High search speed
+Low price
